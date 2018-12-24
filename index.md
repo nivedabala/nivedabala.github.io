@@ -9,9 +9,3 @@ just an aspiring student who has an interest in basically everything
 # **LinkedIn**
 [LinkedIn](https://www.linkedin.com/in/niveda-b/)
 ![Image](https://drive.google.com/file/d/1Y6bchLgPWOonw4XkrHRj18vx2QIYrr8p/view?usp=sharing)
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
