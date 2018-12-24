@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/nivedabala/niveda-website/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Niveda Balananthan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+just an aspiring student who has an interest in basically everything
 
 ```markdown
 Syntax highlighted code block
