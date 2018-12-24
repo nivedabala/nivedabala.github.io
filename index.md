@@ -1,4 +1,4 @@
-## Welcome to Niveda's Website
+## Hi!
 
 just an aspiring student 
 
