@@ -1,4 +1,4 @@
-## Niveda Balananthan
+## Welcome to Niveda's website!
 
 just an aspiring student 
 
