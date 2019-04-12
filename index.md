@@ -1,6 +1,6 @@
-# Hi, I'm Niveda Balananthan
+# Hi, I'm Niveda,
 
-A second year Medical Sciences and Business Student at the University of Western Ontario
+I'm a second year Medical Sciences and Business Student at the University of Western Ontario!
 
 ## **University Experiences**
 [Western Founders Network](https://www.foundersnetwork.ca/)
