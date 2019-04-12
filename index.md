@@ -4,3 +4,4 @@ just an aspiring student
 
 ## **Links to my Handles**
 [LinkedIn](https://www.linkedin.com/in/niveda-b/)
+(Niveda_Balananthan_Resume_Konrad.pdf)
