@@ -9,6 +9,7 @@ I'm a second year Medical Sciences and Business Student at the University of Wes
 *February 2019*
 
 [McHacks6](https://devpost.com/software/cashdat)
+
 ![Cashdat](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/755/342/datas/gallery.jpg)
 >I participated in my 1st hackathon in Montreal, QU where I learned about IOS development and UI/UX Design!
 
@@ -17,7 +18,7 @@ I'm a second year Medical Sciences and Business Student at the University of Wes
 [Western Founders Network](https://www.foundersnetwork.ca/)
 
 >![Future View 2019](https://media.licdn.com/dms/image/C4D22AQGlbsZ3TGjlVA/feedshare-shrink_8192/0?e=1557964800&v=beta&t=E9-S3_gCKQMqVbrCmXx6pYjljOu28UwAcg7iyudz_pM)
->My second year executing the biggest innovative undergraduate technology conference. This is my Future View 2019 team! I will be the incoming president for the 2019-2020 school year!
+>My second year executing the largest undergraduate innovative technology conference. This is my Future View 2019 team! I am excited to be the incoming President for the 2019-2020 school year.
 
 [CAISA Fashion Show](https://caisafashionshow.com/)
 
