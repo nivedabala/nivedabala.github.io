@@ -7,9 +7,10 @@ I'm a second year Medical Sciences and Business Student at the University of Wes
 ## **University Experiences**
 
 *February 2019*
+
 [McHacks6](https://devpost.com/software/cashdat)
->![Cashdat](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/755/342/datas/gallery.jpg)
-I participated in my 1st hackathon in Montreal, QU where I learned about IOS development and UI/UX Design!
+![Cashdat](https://challengepost-s3-challengepost.netdna ssl.com/photos/production/software_photos/000/755/342/datas/gallery.jpg)
+>I participated in my 1st hackathon in Montreal, QU where I learned about IOS development and UI/UX Design!
 
 *March 2019 *
 [Western Founders Network](https://www.foundersnetwork.ca/)
