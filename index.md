@@ -5,5 +5,5 @@ I'm a second year Medical Sciences and Business Student at the University of Wes
 ## **University Experiences**
 [Western Founders Network](https://www.foundersnetwork.ca/)
 
-![Future View] (https://github.com/nivedabala/nivedabala.github.io/blob/master/assets/DSC_8519.jpg)
+[Future View] (/assets/DSC_8519.jpeg)
 This beautiful team and I executed the third annual innovative technology conference at Western!
