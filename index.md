@@ -1,6 +1,6 @@
 # Hi, I'm Niveda,
 
-I'm a second year Medical Sciences and Business Student at the University of Western Ontario!
+I'm a second year Medical Sciences and Business Student at the University of Western Ontario! I'm excited to learn new things and will be documenting my growth on here. 
 
 [Resume](https://drive.google.com/file/d/15wmen0o68aLHikfw0CrYo7WNZcYTQtvA/view?usp=sharing)
 
@@ -11,7 +11,7 @@ I'm a second year Medical Sciences and Business Student at the University of Wes
 [McHacks6](https://devpost.com/software/cashdat)
 
 ![Cashdat](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/755/342/datas/gallery.jpg)
->I participated in my 1st hackathon in Montreal, QU where I learned about IOS development and UI/UX Design!
+>I participated in my 1st hackathon in Montreal, where I learned about IOS development and UI/UX Design! I am looking forward to enrolling in  courses to further my technical skill-set.
 
 *March 2019*
 
