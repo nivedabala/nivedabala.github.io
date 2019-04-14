@@ -19,6 +19,9 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+        <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="niveda-b"><a class="LI-simple-link" href='https://ca.linkedin.com/in/niveda-b?trk=profile-badge'>Niveda B.</a></div>
+        
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.github.is_project_page %}
@@ -28,9 +31,6 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-
-        <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-        <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="niveda-b"><a class="LI-simple-link" href='https://ca.linkedin.com/in/niveda-b?trk=profile-badge'>Niveda B.</a></div>
         
         {% if site.show_downloads %}
         <ul class="downloads">
