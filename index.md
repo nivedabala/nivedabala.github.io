@@ -13,7 +13,7 @@ I'm a second year Medical Sciences and Business Student at the University of Wes
 ![Cashdat](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/755/342/datas/gallery.jpg)
 >I participated in my 1st hackathon in Montreal, where I learned about IOS development and UI/UX Design! I am looking forward to enrolling in  courses to further my technical skill-set.
 
-[USC Science Councillor]
+USC Science Councillor
 
 ![councillor](https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/50471980_520941265094229_2887100054575775744_n.png?_nc_cat=102&_nc_ht=scontent-yyz1-1.xx&oh=4641360fa22579346ca3bb4a61e27715&oe=5D39366B)
 >I ran a school-wide campaign to be a University Student's Council Science Councillor. I have always been interested in student advocacy and I decided to try a new role in student politics! Looking forward to bringing through some great changes next year.
