@@ -34,6 +34,6 @@ USC Science Councillor
 Science Soph Orientation Team
 
 ![soph team](https://github.com/nivedabala/nivedabala.github.io/blob/master/assets/IMG_3957.JPG?raw=true)
->I have wanted to be a Science Soph (Orientation Leader) since my first day of undergrad, and now I cannot wait to be a mentor to the Science Class of 2023!
+>I have wanted to be a Science Soph (Orientation Leader) since my first day of undergrad. After a competitive application process, I am excited to mentor the Science Class of 2023!
 
 *website is still under construction*
