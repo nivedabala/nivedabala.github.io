@@ -27,7 +27,13 @@ USC Science Councillor
 
 [CAISA Fashion Show](https://caisafashionshow.com/)
 
+
 ![CAISA Fashion Show](https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/56214390_1884716044967831_3825923495380910080_o.jpg?_nc_cat=108&_nc_ht=scontent-yyz1-1.xx&oh=84414813172c090f71e9229376d64367&oe=5D3204F1)
 >CFS is the largest student-run fashion show and this year we raised $35,000 for the Children's Health Foundation. I worked on Corporate Sponsorships and acquired $11,250 in funding!
+
+Science Soph Orientation Team
+
+![soph team](https://github.com/nivedabala/nivedabala.github.io/blob/master/assets/IMG_3957.JPG?raw=true)
+>I have wanted to be a Science Soph (Orientation Leader) since my first day of undergrad, and now I cannot wait to be a mentor to the Science Class of 2023!
 
 *website is still under construction*
