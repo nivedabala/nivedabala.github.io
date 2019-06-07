@@ -22,7 +22,7 @@ USC Science Councillor
 
 [Western Founders Network](https://www.foundersnetwork.ca/)
 
->![Future View 2019](https://media.licdn.com/dms/image/C4D22AQGlbsZ3TGjlVA/feedshare-shrink_8192/0?e=1557964800&v=beta&t=E9-S3_gCKQMqVbrCmXx6pYjljOu28UwAcg7iyudz_pM)
+>![Future View 2019](https://github.com/nivedabala/nivedabala.github.io/blob/master/assets/DSC_8519.jpg?raw=true)
 >My second year executing the largest undergraduate innovative technology conference. This is my Future View 2019 team! I am excited to be the incoming President for the 2019-2020 school year.
 
 [CAISA Fashion Show](https://caisafashionshow.com/)
