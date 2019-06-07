@@ -9,7 +9,7 @@ I'm a Bioinformatics and Business Student at the University of Western Ontario! 
 *Currently Learning*
 
 - Google Digital Marketing
-- Google Analytics for Begineers
+- Google Analytics for Beginners
 - Harvard CS50: Introduction to Computer Science
 - Tableau 
 
