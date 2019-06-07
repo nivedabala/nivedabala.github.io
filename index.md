@@ -1,4 +1,4 @@
-# Hi, I'm Niveda,
+# Hi I'm Niveda,
 
 I'm a Bioinformatics and Business Student at the University of Western Ontario! I'm excited to learn new things and will be documenting my growth on here. 
 
