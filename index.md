@@ -36,4 +36,14 @@ Science Soph Orientation Team
 ![soph team](https://github.com/nivedabala/nivedabala.github.io/blob/master/assets/IMG_3957.JPG?raw=true)
 >I have wanted to be a Science Soph (Orientation Leader) since my first day of undergrad. After a competitive application process, I am excited to mentor the Science Class of 2023!
 
+*Currently Learning*
+
+Google Digital Marketing
+
+Google Analytics for Begineers
+
+Harvard CS50: Introduction to Computer Science
+
+Tableau 
+
 *website is still under construction*
