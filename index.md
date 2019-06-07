@@ -2,7 +2,14 @@
 
 I'm a second year Medical Sciences and Business Student at the University of Western Ontario! I'm excited to learn new things and will be documenting my growth on here. 
 
-[Resume](https://drive.google.com/file/d/15wmen0o68aLHikfw0CrYo7WNZcYTQtvA/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1GKrbP3vK8D5HVbIhL5lmNOVAORQpq8B4/view?usp=sharing)
+
+*Currently Learning*
+
+- Google Digital Marketing
+- Google Analytics for Begineers
+- Harvard CS50: Introduction to Computer Science
+- Tableau 
 
 ## **University Experiences**
 
@@ -35,15 +42,5 @@ Science Soph Orientation Team
 
 ![soph team](https://github.com/nivedabala/nivedabala.github.io/blob/master/assets/IMG_3957.JPG?raw=true)
 >I have wanted to be a Science Soph (Orientation Leader) since my first day of undergrad. After a competitive application process, I am excited to mentor the Science Class of 2023!
-
-*Currently Learning*
-
-Google Digital Marketing
-
-Google Analytics for Begineers
-
-Harvard CS50: Introduction to Computer Science
-
-Tableau 
 
 *website is still under construction*
