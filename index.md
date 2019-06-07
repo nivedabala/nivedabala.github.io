@@ -1,6 +1,6 @@
 # Hi, I'm Niveda,
 
-I'm a second year Medical Sciences and Business Student at the University of Western Ontario! I'm excited to learn new things and will be documenting my growth on here. 
+I'm a Bioinformatics and Business Student at the University of Western Ontario! I'm excited to learn new things and will be documenting my growth on here. 
 
 [Resume](https://drive.google.com/file/d/1GKrbP3vK8D5HVbIhL5lmNOVAORQpq8B4/view?usp=sharing)
 
