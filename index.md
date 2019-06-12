@@ -6,6 +6,8 @@ I'm a Bioinformatics and Business Student at the University of Western Ontario! 
 
 [Twitter](https://twitter.com/niveda_bala)
 
+[LinkedIn](https://www.linkedin.com/in/niveda-b/)
+
 *Currently Learning*
 
 - Google Digital Marketing
